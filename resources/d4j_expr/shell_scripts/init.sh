@@ -1,0 +1,5 @@
+export D4J_EXPR="/root/d4j_expr"
+export TEST_SUITE_DIR="/root/test_suite"
+export EVOSUITE_JAR="/root/evosuite/master/target/evosuite-master-1.0.7-SNAPSHOT.jar"
+export EVOSUITE="java -jar $EVOSUITE_JAR"
+export EVOSUITE_REPORT="/root/evosuite-report/"

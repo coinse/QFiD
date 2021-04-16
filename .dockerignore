@@ -1,0 +1,2 @@
+resources/*/fuzz_results
+resources/*/*.class

@@ -1,0 +1,5 @@
+resources/*/fuzz-results/
+resources/*/*.class
+resources/d4j_expr/__pycache__
+resources/d4j_expr/*.pyc
+results/
