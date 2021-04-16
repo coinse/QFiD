@@ -1,8 +1,7 @@
 # Install & Build & Start
 ```bash
-git clone https://git.coinse.io/gabin/ifl
-cd ifl
-git checkout -b expr origin/expr
+git clone https://github.com/coinse/QFiD
+cd QFiD
 sh docker_run.sh
 ```
 
